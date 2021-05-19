@@ -19,6 +19,7 @@
     background: #EEE5D1;
     margin: 0.5em 0;
     padding: 0.3em;}
+  p {font-size: 14px;}
   ul.navbar a {
     text-decoration: none;
 	font-weight: bold }
