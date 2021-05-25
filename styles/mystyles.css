@@ -1,6 +1,6 @@
   body {
    padding-left: 11em;
-   font-family: Georgia, "Times New Roman",
+   font-family: Padauk, "Times New Roman",
           Times, serif;
 		  color: black;
     background-color: #EEE5D1 }
@@ -13,7 +13,7 @@
     left: 1em;
     width: 10em }
 	h1 {
-    font-family: Helvetica, Geneva, Arial,
+    font-family: Padauk, Geneva, Arial,
           SunSans-Regular, sans-serif }
 		ul.navbar li {
     background: #EEE5D1;
